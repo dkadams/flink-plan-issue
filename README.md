@@ -1,3 +1,3 @@
-Java program showing issue (?) with Flink's planner.
+Java program demonstrating https://issues.apache.org/jira/browse/FLINK-10100.
 
 ./gradlew run
